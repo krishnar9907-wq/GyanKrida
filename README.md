@@ -79,13 +79,13 @@ gyan-krida/
 
 ## Sample data and tests
 
-- Sample data: [`data/sample.json`](data/sample.json)
-- Run automated checks: `python3 tests/validate_sample_data.py`
-- Manual test cases: [`TESTING.md`](TESTING.md)
+ - Sample data: [sample.json](sample.json)
+    - Run automated checks: python3 validate_sample_data.py.
+      - Manual test cases: [`TESTING.md`](TESTING.md)
 
 ## Architecture
 
-See [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) for diagrams and design decisions.
+See [ARCHITECTURE.md](ARCHITECTURE.md) for diagrams and design decisions.
 
 ## Privacy and safety
 
