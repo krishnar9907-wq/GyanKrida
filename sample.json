@@ -1,0 +1,529 @@
+{
+  "library": [
+    {
+      "id": "lib-1",
+      "title": "Class 11–12 Maths notes",
+      "level": "school",
+      "language": "Hindi + English",
+      "subject": "Maths",
+      "description": "Sample listing: chapter-wise notes for senior school."
+    },
+    {
+      "id": "lib-2",
+      "title": "General Studies previous-year papers",
+      "level": "competitive",
+      "language": "Hindi + English",
+      "subject": "General Studies",
+      "description": "Sample listing: past papers for practice."
+    },
+    {
+      "id": "lib-3",
+      "title": "College Chemistry syllabus breakdown",
+      "level": "college",
+      "language": "English",
+      "subject": "Chemistry",
+      "description": "Sample listing: unit-wise syllabus guide."
+    },
+    {
+      "id": "lib-4",
+      "title": "Class 10 Science quick revision",
+      "level": "school",
+      "language": "Hindi",
+      "subject": "Science",
+      "description": "Sample listing: short revision notes before exams."
+    }
+  ],
+  "mentors": [
+    {
+      "id": "men-1",
+      "name": "Karan Verma",
+      "field": "After-12th guidance",
+      "level": "competitive",
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "bio": "Choosing entrance exams and planning preparation from a small town. (Fictional sample profile)"
+    },
+    {
+      "id": "men-2",
+      "name": "Neha Sharma",
+      "field": "College admissions",
+      "level": "college",
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "bio": "University entrance exams, degree choices and documents. (Fictional sample profile)"
+    },
+    {
+      "id": "men-3",
+      "name": "Rahul Verma",
+      "field": "Competitive exams",
+      "level": "competitive",
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "bio": "Self-study plans for state exams without costly coaching. (Fictional sample profile)"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "opp-1",
+      "name": "National Scholarship Portal",
+      "category": "Scholarship",
+      "official_url": "https://scholarships.gov.in/",
+      "audience": "School and college students"
+    },
+    {
+      "id": "opp-2",
+      "name": "NTA exam notices",
+      "category": "Entrance exams",
+      "official_url": "https://nta.ac.in/",
+      "audience": "Students after 12th"
+    },
+    {
+      "id": "opp-3",
+      "name": "State free-coaching schemes (via India.gov.in)",
+      "category": "Free coaching",
+      "official_url": "https://www.india.gov.in/",
+      "audience": "Competitive exam aspirants"
+    },
+    {
+      "id": "opp-4",
+      "name": "Union Public Service Commission",
+      "category": "Public jobs",
+      "official_url": "https://upsc.gov.in/",
+      "audience": "Competitive exam aspirants"
+    },
+    {
+      "id": "opp-5",
+      "name": "Khelo India",
+      "category": "Sports",
+      "official_url": "https://www.kheloindia.gov.in/",
+      "audience": "Young athletes"
+    },
+    {
+      "id": "opp-6",
+      "name": "Sports Authority of India",
+      "category": "Sports",
+      "official_url": "https://www.sportsauthorityofindia.gov.in/",
+      "audience": "Young athletes"
+    },
+    {
+      "id": "opp-7",
+      "name": "Fit India",
+      "category": "Sports",
+      "official_url": "https://fitindia.gov.in/",
+      "audience": "Everyone"
+    }
+  ],
+  "sports": [
+    {
+      "sport": "Athletics",
+      "stages": [
+        {
+          "stage": "Just starting",
+          "checklist": [
+            "Note your Athletics experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "School team",
+          "checklist": [
+            "Note your Athletics experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "College team",
+          "checklist": [
+            "Note your Athletics experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "District / state level",
+          "checklist": [
+            "Note your Athletics experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "Kabaddi",
+      "stages": [
+        {
+          "stage": "Just starting",
+          "checklist": [
+            "Note your Kabaddi experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "School team",
+          "checklist": [
+            "Note your Kabaddi experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "College team",
+          "checklist": [
+            "Note your Kabaddi experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "District / state level",
+          "checklist": [
+            "Note your Kabaddi experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "Wrestling",
+      "stages": [
+        {
+          "stage": "Just starting",
+          "checklist": [
+            "Note your Wrestling experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "School team",
+          "checklist": [
+            "Note your Wrestling experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "College team",
+          "checklist": [
+            "Note your Wrestling experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "District / state level",
+          "checklist": [
+            "Note your Wrestling experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "Boxing",
+      "stages": [
+        {
+          "stage": "Just starting",
+          "checklist": [
+            "Note your Boxing experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "School team",
+          "checklist": [
+            "Note your Boxing experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "College team",
+          "checklist": [
+            "Note your Boxing experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "District / state level",
+          "checklist": [
+            "Note your Boxing experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "Hockey",
+      "stages": [
+        {
+          "stage": "Just starting",
+          "checklist": [
+            "Note your Hockey experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "School team",
+          "checklist": [
+            "Note your Hockey experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "College team",
+          "checklist": [
+            "Note your Hockey experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "District / state level",
+          "checklist": [
+            "Note your Hockey experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "Football",
+      "stages": [
+        {
+          "stage": "Just starting",
+          "checklist": [
+            "Note your Football experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "School team",
+          "checklist": [
+            "Note your Football experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "College team",
+          "checklist": [
+            "Note your Football experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "District / state level",
+          "checklist": [
+            "Note your Football experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "Volleyball",
+      "stages": [
+        {
+          "stage": "Just starting",
+          "checklist": [
+            "Note your Volleyball experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "School team",
+          "checklist": [
+            "Note your Volleyball experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "College team",
+          "checklist": [
+            "Note your Volleyball experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "District / state level",
+          "checklist": [
+            "Note your Volleyball experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "Badminton",
+      "stages": [
+        {
+          "stage": "Just starting",
+          "checklist": [
+            "Note your Badminton experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "School team",
+          "checklist": [
+            "Note your Badminton experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "College team",
+          "checklist": [
+            "Note your Badminton experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "District / state level",
+          "checklist": [
+            "Note your Badminton experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "Para-sports",
+      "stages": [
+        {
+          "stage": "Just starting",
+          "checklist": [
+            "Note your Para-sports experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "School team",
+          "checklist": [
+            "Note your Para-sports experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "College team",
+          "checklist": [
+            "Note your Para-sports experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        },
+        {
+          "stage": "District / state level",
+          "checklist": [
+            "Note your Para-sports experience, matches and certificates.",
+            "Ask your PE teacher or a recognised local coach for safe, supervised training.",
+            "Check official Khelo India pages for current programmes.",
+            "Confirm dates, eligibility and documents on the official notice.",
+            "Share personal documents only through official channels."
+          ]
+        }
+      ]
+    }
+  ]
+}
